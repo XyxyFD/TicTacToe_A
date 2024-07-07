@@ -27,4 +27,3 @@ jobs:
           name: application-jar
           path: target/*.jar
 
-
